@@ -1,16 +1,50 @@
-## Hi there 👋
+# Michael Kabat
 
-<!--
-**Michael-Kabat/Michael-Kabat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Software Engineering Intern  
+📅 Available: Summer | Fall | Winter  
 
-Here are some ideas to get you started:
+Computer Science @ UBC  
+Former Software Engineering Honors @ Carleton (12.0/12.0 GPA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+I build full-stack systems and applications with an emphasis on:
+
+• Clean architecture  
+• Scalable backend design  
+• Data processing & optimization  
+• Clear, maintainable code  
+
+---
+
+## Technical Focus
+
+Languages: Java, Python, C, C#, TypeScript, JavaScript  
+Frontend: React  
+Backend: Node.js, Express  
+Core CS: Data Structures, Algorithms, Complexity Analysis, OOP  
+Tools: Git, Docker, Linux  
+
+---
+
+## Engineering Principles
+
+• Design systems, not just features
+• Understand the constraints before choosing the abstraction
+• Optimize for readability and long-term maintainability
+
+---
+
+## Currently Interested In
+
+• Backend engineering  
+• Distributed systems fundamentals  
+• Performance optimization  
+• Systems-level thinking  
+
+---
+
+📫 michaelckabat@gmail.com  
+🔗 linkedin.com/in/kabat-michael

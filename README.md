@@ -47,4 +47,4 @@ Tools: Git, Docker, Linux
 ---
 
 📫 michaelckabat@gmail.com  
-🔗 linkedin.com/in/kabat-michael
+🔗 [LinkedIn](https://linkedin.com/in/kabat-michael)

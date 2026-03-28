@@ -1,6 +1,5 @@
 # Michael Kabat
 
-💼 Software Engineering Intern  
 📅 Available: Summer | Fall | Winter  
 
 Computer Science @ UBC  
@@ -21,7 +20,7 @@ I build full-stack systems and applications with an emphasis on:
 
 ## Technical Focus
 
-Languages: Java, Python, C, C#, TypeScript, JavaScript  
+Languages: Java, Python, C, C#, TypeScript, JavaScript, SQL  
 Frontend: React  
 Backend: Node.js, Express  
 Core CS: Data Structures, Algorithms, Complexity Analysis, OOP  
@@ -31,7 +30,7 @@ Tools: Git, Docker, Linux
 
 ## Engineering Principles
 
-• Design systems, not just features
+• Focus on designing systems, not just features 
 • Understand the constraints before choosing the abstraction
 • Optimize for readability and long-term maintainability
 

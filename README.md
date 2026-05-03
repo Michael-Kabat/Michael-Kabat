@@ -2,7 +2,7 @@
 
 📅 Available: Summer | Fall | Winter  
 
-Computer Science @ UBC  
+Computer Science @ UBC (4.0 GPA)
 Former Software Engineering Honors @ Carleton (12.0/12.0 GPA)
 
 ---
